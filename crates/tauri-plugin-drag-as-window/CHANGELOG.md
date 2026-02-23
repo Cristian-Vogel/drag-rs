@@ -1,5 +1,11 @@
 # Changelog
 
+## \[2.1.1]
+
+### Dependencies
+
+- Upgraded to `drag@2.1.1`
+
 ## \[2.1.0]
 
 - [`229aa3e`](https://github.com/crabnebula-dev/drag-rs/commit/229aa3e26c85c31074abd3b4a4538b2ec65eb094) Added `mode` drag option to either copy or move a file.
